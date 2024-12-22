@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Js,Mongodb,Java,React**
 
-- 📫 How to reach me **Vinodsaini4t8@gmai.com**
+- 📫 How to reach me **Vinodsaini4t8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
